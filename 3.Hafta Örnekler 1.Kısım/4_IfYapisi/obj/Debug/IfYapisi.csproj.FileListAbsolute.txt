@@ -1,0 +1,8 @@
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\IfYapisi\obj\Debug\IfYapisi.csproj.AssemblyReference.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\IfYapisi\obj\Debug\IfYapisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\IfYapisi\obj\Debug\IfYapisi.csproj.CoreCompileInputs.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\IfYapisi\bin\Debug\IfYapisi.exe.config
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\IfYapisi\bin\Debug\IfYapisi.exe
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\IfYapisi\bin\Debug\IfYapisi.pdb
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\IfYapisi\obj\Debug\IfYapisi.exe
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\IfYapisi\obj\Debug\IfYapisi.pdb

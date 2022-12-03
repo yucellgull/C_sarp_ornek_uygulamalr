@@ -1,0 +1,8 @@
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\MantiksalOperatorler\bin\Debug\MantiksalOperatorler.exe.config
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\MantiksalOperatorler\bin\Debug\MantiksalOperatorler.exe
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\MantiksalOperatorler\bin\Debug\MantiksalOperatorler.pdb
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\MantiksalOperatorler\obj\Debug\MantiksalOperatorler.csproj.AssemblyReference.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\MantiksalOperatorler\obj\Debug\MantiksalOperatorler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\MantiksalOperatorler\obj\Debug\MantiksalOperatorler.csproj.CoreCompileInputs.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\MantiksalOperatorler\obj\Debug\MantiksalOperatorler.exe
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\MantiksalOperatorler\obj\Debug\MantiksalOperatorler.pdb

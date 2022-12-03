@@ -1,0 +1,16 @@
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\5_SwitchCase\bin\Debug\5_SwitchCase.exe.config
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\5_SwitchCase\bin\Debug\5_SwitchCase.exe
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\5_SwitchCase\bin\Debug\5_SwitchCase.pdb
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\5_SwitchCase\obj\Debug\5_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\5_SwitchCase\obj\Debug\5_SwitchCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\5_SwitchCase\obj\Debug\5_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\5_SwitchCase\obj\Debug\5_SwitchCase.exe
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\5_SwitchCase\obj\Debug\5_SwitchCase.pdb
+D:\2022\Dersler\Nesne Tabanlı Proglamlama\C# Örnekler\Örnekler\5_SwitchCase\bin\Debug\5_SwitchCase.exe.config
+D:\2022\Dersler\Nesne Tabanlı Proglamlama\C# Örnekler\Örnekler\5_SwitchCase\bin\Debug\5_SwitchCase.exe
+D:\2022\Dersler\Nesne Tabanlı Proglamlama\C# Örnekler\Örnekler\5_SwitchCase\bin\Debug\5_SwitchCase.pdb
+D:\2022\Dersler\Nesne Tabanlı Proglamlama\C# Örnekler\Örnekler\5_SwitchCase\obj\Debug\5_SwitchCase.csproj.AssemblyReference.cache
+D:\2022\Dersler\Nesne Tabanlı Proglamlama\C# Örnekler\Örnekler\5_SwitchCase\obj\Debug\5_SwitchCase.csproj.SuggestedBindingRedirects.cache
+D:\2022\Dersler\Nesne Tabanlı Proglamlama\C# Örnekler\Örnekler\5_SwitchCase\obj\Debug\5_SwitchCase.csproj.CoreCompileInputs.cache
+D:\2022\Dersler\Nesne Tabanlı Proglamlama\C# Örnekler\Örnekler\5_SwitchCase\obj\Debug\5_SwitchCase.exe
+D:\2022\Dersler\Nesne Tabanlı Proglamlama\C# Örnekler\Örnekler\5_SwitchCase\obj\Debug\5_SwitchCase.pdb

@@ -1,0 +1,8 @@
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\Örnekler\bin\Debug\Örnekler.exe.config
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\Örnekler\bin\Debug\Örnekler.exe
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\Örnekler\bin\Debug\Örnekler.pdb
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\Örnekler\obj\Debug\Örnek1.csproj.AssemblyReference.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\Örnekler\obj\Debug\Örnek1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\Örnekler\obj\Debug\Örnek1.csproj.CoreCompileInputs.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\Örnekler\obj\Debug\Örnekler.exe
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\Örnekler\obj\Debug\Örnekler.pdb
