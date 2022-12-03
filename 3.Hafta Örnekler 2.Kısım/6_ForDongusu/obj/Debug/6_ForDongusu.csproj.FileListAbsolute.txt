@@ -1,0 +1,8 @@
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\6_ForDongusu\bin\Debug\6_ForDongusu.exe.config
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\6_ForDongusu\bin\Debug\6_ForDongusu.exe
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\6_ForDongusu\bin\Debug\6_ForDongusu.pdb
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\6_ForDongusu\obj\Debug\6_ForDongusu.csproj.AssemblyReference.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\6_ForDongusu\obj\Debug\6_ForDongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\6_ForDongusu\obj\Debug\6_ForDongusu.csproj.CoreCompileInputs.cache
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\6_ForDongusu\obj\Debug\6_ForDongusu.exe
+C:\Users\Yücel Gül\Desktop\C#\Örnekler\6_ForDongusu\obj\Debug\6_ForDongusu.pdb
